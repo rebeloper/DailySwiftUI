@@ -1,9 +1,6 @@
-//
-//  ContentView.swift
-//  DailySwiftUI
-//
-//  Created by Alex Nagy on 19.09.2021.
-//
+// VStack_View.swift
+// https://rebeloper.com/daily-swiftui
+// Created by Rebeloper
 
 import SwiftUI
 
